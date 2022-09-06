@@ -96,5 +96,5 @@ def load_data(data):
 
 if __name__ == "__main__":
 
-    load_data(portfolio.sample(10))
+    load_data(portfolio)
     print('Done!')
